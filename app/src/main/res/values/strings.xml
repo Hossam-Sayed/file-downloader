@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Custom Views</string>
+    <string name="app_description">Download files from Internet</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="notification_title">Udacity: Android Kotlin Nanodegree </string>
+    <string name="notification_description">The Project 3 repository is downloaded</string>
+    <string name="notification_button">See changes</string>
+
+    <string name="button_name">Download</string>
+    <string name="button_loading">We are loading</string>
+
+
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="glide_radio_btn_text">Glide - Image Loading Library by BumpTech</string>
+    <string name="repo_radio_btn_text">LoadApp - Current Repository by Udacity</string>
+    <string name="retrofit_radio_btn_text">Retrofit - Type-safe HTTP client for Android and Java by Square, Inc</string>
+    <string name="file_name">File Name:</string>
+    <string name="status">Status:</string>
+    <string name="ok">OK</string>
+    <string name="download_details">details</string>
+</resources>
